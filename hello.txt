@@ -1,2 +1,7 @@
 Hello world
+<<<<<<< HEAD
 Next Change	
+=======
+Next Change
+Clone change
+>>>>>>> 16ead6259779b0b9d80a55985fc83258007161b6
